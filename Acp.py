@@ -6,4 +6,4 @@ while num > 0:
     count = count + 1
     num = num//10
     
-print(f"There are number {count} Digits is the Number {num} !")
+print(f"There are {count} Digits is the Number {num} !")
